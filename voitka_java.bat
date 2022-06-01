@@ -1,0 +1,1 @@
+start "" java -jar voitka_java.jar
